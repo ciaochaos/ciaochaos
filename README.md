@@ -12,3 +12,5 @@ Here are some of my works:<br />这里是我的一些作品：
 - [**...More**](https://troyni.com/projects)
 
 WeChat 微信：nhciao `添加好友时请备注名字`
+
+我的项目未来都会放到 [@latentcat](https://github.com/latentcat) 这个组织下！欢迎关注！
