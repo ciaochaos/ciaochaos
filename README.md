@@ -11,6 +11,5 @@ Here are some of my works:<br />这里是我的一些作品：
 - [**mpMath** — WeChat Media Press Formula Plugin](https://github.com/ciaochaos/mpMath)<br />微信公众号公式编辑插件
 - [**...More**](https://troyni.com/projects)
 
-WeChat 微信：nhciao `添加好友时请备注名字`
-
+WeChat 微信：nhciao `添加好友时请备注名字` \
 我的项目未来都会放到 [@latentcat](https://github.com/latentcat) 这个组织下！欢迎关注！
